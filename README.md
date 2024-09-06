@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node.js, Next.js, React
 - 💞️ I’m looking to collaborate on projects Web Applications particularly with MERN and Next.js
-- 📫 How to reach me at pennantt@icloud.com
+- 📫 How to reach me at https://x.com/pennant_th75216
 
 <!---
 thomasx-0/thomasx-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
