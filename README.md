@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasx-0
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js, Next.js, React
-- 💞️ I’m looking to collaborate on projects Web Applications particularly with MERN and Next.js
+- 🌱 I’m currently learning Node.js, Next.js, React.js
+- 💞️ I’m looking to collaborate on projects Web Applications particularly with Next.js
 - 📫 How to reach me at https://x.com/pennant_th75216
 
 <!---
